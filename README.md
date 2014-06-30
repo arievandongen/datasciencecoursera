@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-This is a repository for my Coursera coure 'Data Scientist's Toolbox'
+This is a repository for my Coursera course 'Data Scientist's Toolbox'
